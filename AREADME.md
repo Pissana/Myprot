@@ -1,5 +1,7 @@
 # Myproflie
 [myprogram](myprogram04.py)
+<img width="200" height="200" alt="Screenshot 2026-07-24 15 20 58" src="https://github.com/user-attachments/assets/cf552e9e-d2cc-4da3-b3b5-d92434693898" />
+
 <h2>ปริศนา พิผ่วนนอก</h2>
 ม.6/4
 เลขที่ 34
